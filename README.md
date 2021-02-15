@@ -11,7 +11,7 @@
 + [awesome-ios](https://github.com/vsouza/awesome-ios) 精选的iOS绝佳生态系统清单，包括Objective-C和Swift项目
 + [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 现在我们变得非常大，与最初的想法不同。收集各种类别的高级软件。
 
-## 前端工程师
+## 前端相关
 
 + [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) 图标，字体和CSS工具包
 + [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) 前端Web开发人员的资源
@@ -27,7 +27,7 @@
 + [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) Node.js软件包和资源大全
 + [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) 精选的令人惊叹的前端库，资源和闪亮的清单。
 
-## 后端工程师
+## 后端相关
 
 + [awesome-php](https://github.com/ziadoz/awesome-php) 精选的awesome-PHP库，资源和牛x的清单。
 + [awesome-go](https://github.com/avelino/awesome-go) 精选的Go框架，库和软件的精选清单
@@ -60,10 +60,10 @@
 
 + [awesome-courses](https://github.com/prakhar1989/awesome-courses) 学习计算机科学的很棒的大学课程列表！
 + [awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) 很棒的初学者友好项目列表。
-
 + [awesome-package-manager](https://github.com/damon-kwok/awesome-package-manager) 很棒的软件包管理器资源 
 + [awesome-pentest](https://github.com/enaqx/awesome-pentest) 很棒的渗透测试资源，工具和其他闪亮内容的集合
 + [Awesome-CV](https://github.com/posquit0/Awesome-CV) 简历模板，适合您出色的工作应用
 + [awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions) 精选的面试问题清单
 + [awesome-readme](https://github.com/matiassingers/awesome-readme) 精选自述文件清单
++ [awesome-vuepress](https://github.com/matiassingers/awesome-readme) 与VuePress相关的精彩清单
 
