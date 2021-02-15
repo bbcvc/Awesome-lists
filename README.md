@@ -31,7 +31,7 @@
 
 + [awesome-php](https://github.com/ziadoz/awesome-php) 精选的awesome-PHP库，资源和牛x的清单。
 + [awesome-go](https://github.com/avelino/awesome-go) 精选的Go框架，库和软件的精选清单
-+ [精选的Rust代码和资源列表](https://github.com/rust-unofficial/awesome-rust) 精选的Rust代码和资源列表。
++ [awesome-rust](https://github.com/rust-unofficial/awesome-rust) 精选的Rust代码和资源列表。
 + [awesome-java](https://github.com/akullpp/awesome-java) 精选的Java编程语言框架，库和软件列表。
 + [awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版
 + [awesome-cpp](https://github.com/fffaraz/awesome-cpp) 精选的C ++（或C）框架，库，资源和精彩内容的清单。
