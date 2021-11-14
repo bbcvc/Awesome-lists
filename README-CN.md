@@ -4,12 +4,12 @@
 
 ## windows系统相关
 
-+ [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) Windows上优质&精选的最佳应用程序及工具列表。
++ [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) Windows上优质&精选的最佳应用程序及工具列表
 
 ## IOS 系统相关
 
 + [awesome-ios](https://github.com/vsouza/awesome-ios) 精选的iOS绝佳生态系统清单，包括Objective-C和Swift项目
-+ [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 现在我们变得非常大，与最初的想法不同。收集各种类别的高级软件。
++ [awesome-mac](https://github.com/jaywcjlove/awesome-mac) 现在我们变得非常大，与最初的想法不同。收集各种类别的高级软件
 
 ## 前端相关
 
