@@ -4,7 +4,7 @@
 
 ## windows
 
-+ [Awesome-Windows](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md) An awesome & curated list of best applications and tools for Windows.
++ [Awesome-Windows](https://github.com/Awesome-Windows/Awesome) An awesome & curated list of best applications and tools for Windows.
 
 ## IOS 
 
