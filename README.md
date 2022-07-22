@@ -25,6 +25,7 @@
 
 + [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) Delightful Node.js packages and resources.
 + [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) A curated list of amazingly awesome frontend libraries, resources and shiny things.
++ [awesome-vite](https://github.com/vitejs/awesome-vite) A curated list of awesome things related to Vite.js.
 
 ## Back-end
 
