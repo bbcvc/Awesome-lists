@@ -26,6 +26,7 @@
 
 + [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) Node.js软件包和资源大全
 + [awesome-frontend](https://github.com/JingwenTian/awesome-frontend) 精选的令人惊叹的前端库，资源和闪亮的清单。
++ [awesome-vite](https://github.com/vitejs/awesome-vite) 与vite.js有关的精彩事物的精选清单
 
 ## 后端相关
 
